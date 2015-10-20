@@ -1,2 +1,2 @@
 # semaine-5
-semaine 5 exercice CV 
+semaine 5 exercise CV 
